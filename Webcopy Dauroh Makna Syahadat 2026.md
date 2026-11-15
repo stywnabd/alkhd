@@ -132,10 +132,10 @@ Pembatasan kuota dilakukan agar proses pembelajaran, diskusi, dan pendampingan d
 
 | Tahapan | Waktu |
 | --- | --- |
-| Pendaftaran | Hingga 20 Oktober 2026 |
-| Seleksi Peserta | Hingga 20 November 2026 |
-| Pengumuman Peserta | 1 Desember 2026 |
-| Persiapan Keberangkatan | 10–24 Desember 2026 |
+| Pendaftaran | Hingga 20 Desember 2026 |
+| Seleksi Peserta | 21 Desember 2026 |
+| Pengumuman Peserta | 22 Desember 2026 |
+| Persiapan Keberangkatan | 23 Desember 2026 |
 | Keberangkatan dari Jakarta Selatan | 24 Desember 2026 |
 | Pelaksanaan Dauroh | 24–27 Desember 2026 |
 | Kepulangan ke Jakarta | 27 Desember 2026 |
